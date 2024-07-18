@@ -1,0 +1,21 @@
+.fname-link {
+    color: blue;
+    text-decoration: underline;
+}
+
+.fname-link-disabled {
+    color: black;
+    text-decoration: none;
+    cursor: not-allowed;
+}
+
+.btn{
+	position: relative;
+	bottom: 0px;
+	left: 78%;
+	
+}
+.btn-right{
+	right: 200px;
+	transform: none;
+}
